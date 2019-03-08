@@ -1,4 +1,4 @@
-﻿import cv2
+﻿import cv2 
 import numpy as np
 #загружаем необходимые классификаторы XML.
 face_detect = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
